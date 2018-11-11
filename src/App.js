@@ -17,8 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React Everyday
-            Tomorrow never comes
+            Learn React Today
           </a>
         </header>
       </div>
