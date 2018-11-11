@@ -18,6 +18,7 @@ class App extends Component {
             rel="noopener noreferrer"
           >
             Learn React Everyday
+            Tomorrow never comes
           </a>
         </header>
       </div>
